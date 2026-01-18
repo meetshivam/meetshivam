@@ -5,8 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetshivam&label=Profile%20views&color=0e75b6&style=flat" alt="meetshivam" /> </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/shivvam20" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-shivvam20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn Profile"
+    />
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/shivvam20?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img src="https://img.shields.io/twitter/follow/whoshivix?logo=twitter&style=for-the-badge" alt="whoshivix" /></a> </p>
 
 - 🔭 I’m currently working on **Secure Authentication Using Facial Recognition**
 
